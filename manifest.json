@@ -3,8 +3,7 @@
   "name": "AltTab",
   "version": "1.1",
   "permissions": [
-    "commands",
-    "tabs"
+    "commands"
   ],
   "commands": {
     "ALTTAB_ActivateLast": {
